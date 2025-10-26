@@ -1,4 +1,4 @@
-<h1 align="center">Malik Ali Sher</h1>
+<h1 align="center">Malik Muhammad AliSher Tahir</h1>
 <h3 align="center">Cyber Security Student | IT & Programming Enthusiast | Future Cyber Specialist</h3>
 
 ---
