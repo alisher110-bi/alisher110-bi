@@ -45,8 +45,8 @@ I aim to specialize in a field that merges my **programming background** with **
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikalisher&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikalisher&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alisher110-bi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisher110-bi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
